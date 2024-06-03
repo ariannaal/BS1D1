@@ -14,7 +14,7 @@
 
 .colonne-es1 {
     font-size: 2.5rem;
-    background-color: lightskyblue;
+    background-color: #acdcee;
     color: white;
     padding: 1rem;
     border: 1px solid black;
@@ -49,6 +49,36 @@
 
 .colonne-es4 {
     background-color: #ffaaa5;
+    color: white;
+    padding: 1rem;
+    border: 1px solid black;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 2.5rem;
+}
+
+.colonne-es5 {
+    background-color: #83cee0;
+    color: white;
+    padding: 1rem;
+    border: 1px solid black;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 2.5rem;
+}
+
+.colonne-annidate {
+    background-color: #e0e0e0;
+    color: black;
+    padding: 1rem;
+    border: 1px solid black;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 2.5rem;
+}
+
+.colonne-es6 {
+    background-color: #283739;
     color: white;
     padding: 1rem;
     border: 1px solid black;
