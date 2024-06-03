@@ -1,0 +1,58 @@
+.title {
+    font-size: 6rem;
+    margin-top: 1.5rem;
+    font-weight: 900;
+    color: #9896f1;
+}
+
+.esercizi {
+    font-size: 3.5rem;
+    padding-block: 2rem;
+    font-weight: 700;
+    color: #d59bf6;
+}
+
+.colonne-es1 {
+    font-size: 2.5rem;
+    background-color: lightskyblue;
+    color: white;
+    padding: 1rem;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.colonne-es2 {
+    font-size: 2.5rem;
+    background-color: #fdffab;
+    color: black;
+    padding: 1rem;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.colonne-es3 {
+    background-color: #a8e6cf;
+    color: white;
+    padding: 1rem;
+    border: 1px solid black;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 2.5rem;
+}
+
+.breakpoint {
+    color: green;
+    font-size: 2rem;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+
+.colonne-es4 {
+    background-color: #ffaaa5;
+    color: white;
+    padding: 1rem;
+    border: 1px solid black;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 2.5rem;
+}
